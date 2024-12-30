@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df4047b5ea504fd4b8cb0178305d4fc0, type: 3}
+  m_Name: Weapon_Sniper
+  m_EditorClassIdentifier: 
+  weaponName: Orsis T-5000
+  bulletDamage: 80
+  bulletsInMagazine: 12
+  magazineCapacity: 12
+  totalBulletReserve: 99999
+  shotType: 0
+  bulletsPerShot: 1
+  fireRate: 1.5
+  burstAvailable: 0
+  burstActive: 0
+  burstBulletsPerShot: 0
+  burstFireRate: 0
+  burstFireDelay: 0.1
+  baseSpread: 0
+  maximumSpread: 0
+  spreadIncreaseRate: 0.15
+  weaponType: 4
+  reloadSpeed: 1
+  equipSpeed: 1
+  gunDistance: 25
+  cameraDistance: 8
+  weaponIcon: {fileID: 1193619520, guid: 24bf57d7c3fc2f04e9bb7a16559759cf, type: 3}
+  weaponInfo: Good on a big distance, One Shot - One Kill
